@@ -1,0 +1,9 @@
+{
+  "promptDelete": false,
+  "strictLineBreaks": false,
+  "spellcheck": false,
+  "autoPairBrackets": false,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "z_img",
+  "alwaysUpdateLinks": true
+}

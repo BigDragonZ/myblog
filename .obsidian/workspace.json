@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "31fa7f97375b1487",
+    "type": "split",
+    "children": [
+      {
+        "id": "043345cb288136f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a36796e19b1ec7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "005工具/homebrew.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "homebrew"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "28e9748a4eeeb8c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0f5a2411f2be6df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "facb63e70b06e74b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "11c8e0dd085eb5e3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "03c894baa22e5c05",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "52b43bfdae0c6599",
+    "type": "split",
+    "children": [
+      {
+        "id": "56d56676197ac361",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a16a398b5da0488e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Promot/001tools_usr.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "001tools_usr 的反向链接列表"
+            }
+          },
+          {
+            "id": "6987d9525ffb9386",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "2c9fa14a5914c085",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c09fc18c52b7f0b8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e558a04fc0be8721",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "005工具/homebrew.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "homebrew 的大纲"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "facb63e70b06e74b",
+  "lastOpenFiles": [
+    "006应用",
+    "005工具",
+    "006应用/004open_claw/002openclaw.md",
+    "004闲聊/gemini/001 AI 细化项目落地指南.md",
+    "004闲聊",
+    "001 AI/002-机器学习/008回归总结.md",
+    "base/02-Machine-Learning/temp.md",
+    "base/02-Machine-Learning/引言.md",
+    "base/003-Skills/111.md",
+    "base/Promot/002file.md",
+    "base/Promot/001tools_usr.md",
+    "999life/001红包.md",
+    "002 投资",
+    "001 AI",
+    "003 外语/001音标.md",
+    "999life",
+    "999/001资源.md",
+    "003 外语",
+    "001 AI/002-机器学习/002 Single Variable Linear Regression.md",
+    "999",
+    "001 AI/002-机器学习/001 introduction.md",
+    "002 投资/知乎/Mr Dang/005 规划.md",
+    "002 投资/知乎/Mr Dang/007 指标.md",
+    "002 投资/知乎/Mr Dang/006 操作.md",
+    "002 投资/知乎/Mr Dang/004 行业分析.md",
+    "002 投资/知乎/Mr Dang/003 常看.md",
+    "002 投资/知乎/Mr Dang/002暗号.md",
+    "002 投资/知乎/Mr Dang/001琐碎.md",
+    "知乎/Mr Dang/006 公司分类.md",
+    "知乎/Mr Dang/005 分红的可持续性与净利润的关系.md",
+    "知乎/Mr Dang/004 每股收益.md",
+    "知乎/Mr Dang/003 地阶.md",
+    "知乎/Mr Dang/002 预期股息率.md",
+    "z_img/Pasted image 20260314181929.png",
+    "z_img/Pasted image 20260314181900.png",
+    "004闲聊/gemini",
+    "006应用/004open_claw",
+    "base/Promot",
+    "z_img/002 G公司历年分红金额.png",
+    "z_img/001 HXYH新闻.png"
+  ]
+}

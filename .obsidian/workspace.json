@@ -13,26 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002 投资/知乎/summary.md",
+                "file": "006应用/004open_claw/003 api.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "summary"
+              "title": "003 api"
             }
           },
           {
-            "id": "295b17bc1b38c0f6",
+            "id": "b765597e35256603",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002 投资/知乎/github.md",
+                "file": "004闲聊/投资助手/001 方案探索.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "github"
+              "title": "001 方案探索"
             }
           }
         ],
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002 投资/知乎/github.md",
+                "file": "004闲聊/投资助手/001 方案探索.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "github 的大纲"
+              "title": "001 方案探索 的大纲"
             }
           }
         ],
@@ -184,8 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,23 +197,24 @@
       "bases:新建数据库": false
     }
   },
-  "active": "295b17bc1b38c0f6",
+  "active": "facb63e70b06e74b",
   "lastOpenFiles": [
-    "002 投资/知乎/summary.md",
-    "002 投资/知乎/github.md",
     "006应用/004open_claw/005常用命令.md",
-    "006应用/004open_claw/003 api.md",
-    "006应用/004open_claw/004快速入门.md",
-    "999/001资源.md",
     "005工具/token.md",
-    "001 AI/未命名",
-    "005工具/homebrew.md",
-    "004闲聊/gemini/001 AI 细化项目落地指南.md",
-    "006应用/004open_claw/001ubantu.md",
-    "006应用/004open_claw/002openclaw.md",
+    "002 投资/知乎/github.md",
+    "007github",
+    "004闲聊/投资助手/001 方案探索.md",
+    "004闲聊/投资助手",
+    "006应用/004open_claw/004快速入门.md",
+    "006应用/004open_claw/005问题分析.md",
     "006应用/004open_claw/006 以 OpenClaw 為例介紹 AI Agent 的運作原理.md",
-    "z_img/Pasted image 20260314181900.png",
-    "z_img/Pasted image 20260314181929.png",
+    "006应用/004open_claw/003 api.md",
+    "006应用/004open_claw/002openclaw.md",
+    "006应用/004open_claw/001ubantu.md",
+    "004闲聊/gemini/001 AI 细化项目落地指南.md",
+    "999/001资源.md",
+    "999life/001学习方法.md",
+    "005工具/homebrew.md",
     "006应用",
     "005工具",
     "004闲聊",
@@ -235,9 +235,8 @@
     "001 AI/002-机器学习/001 introduction.md",
     "002 投资/知乎/Mr Dang/005 规划.md",
     "002 投资/知乎/Mr Dang/007 指标.md",
-    "002 投资/知乎/Mr Dang/006 操作.md",
-    "002 投资/知乎/Mr Dang/004 行业分析.md",
-    "004闲聊/gemini",
+    "z_img/Pasted image 20260314181929.png",
+    "z_img/Pasted image 20260314181900.png",
     "z_img/002 G公司历年分红金额.png",
     "z_img/001 HXYH新闻.png"
   ]
